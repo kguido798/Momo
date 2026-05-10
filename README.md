@@ -10,7 +10,7 @@ Team Members
 
 Project Description
 
-This project handles XML-formatted Mobile Money (MoMo) SMS transaction data.
+This project handles XML-formatted Mobile Money (MoMo) SMS transaction data. The project will go ahead and store the date in SQLite database, and intends to be attractive so that the user feels a sense of belonging and quite easy to use.
 
 The system:
 - Parses XML transaction messages
