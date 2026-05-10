@@ -29,7 +29,10 @@ The system:
 
 Architecture Diagram:
 https://miro.com/app/board/uXjVHV5oNv4=/?share_link_id=722346128313
- 
+
+<img width="1600" height="273" alt="image" src="https://github.com/user-attachments/assets/a2e02614-10c2-446c-b1e2-fb91cdfb8867" />
+
+
 Scrum Board:
 https://trello.com/b/UpaAck4A/momo-progress
 
