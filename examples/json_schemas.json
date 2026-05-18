@@ -1,0 +1,88 @@
+{
+  "user": {
+    "user_id": null,
+    "full_name": "",
+    "phone_number": "",
+    "email": "",
+    "created_at": ""
+  },
+
+  "account": {
+    "account_id": null,
+    "user_id": null,
+    "balance": null,
+    "account_type": "",
+    "created_at": ""
+  },
+
+  "transaction_category": {
+    "category_id": null,
+    "category_name": ""
+  },
+
+  "transaction_status": {
+    "status_id": null,
+    "status_name": ""
+  },
+
+  "transaction": {
+    "transaction_id": null,
+    "category_id": null,
+    "status_id": null,
+    "amount": null,
+    "transaction_reference": "",
+    "description": "",
+    "transaction_date": ""
+  },
+
+  "transaction_participant": {
+    "participant_id": null,
+    "transaction_id": null,
+    "user_id": null,
+    "role": ""
+  },
+
+  "system_log": {
+    "log_id": null,
+    "transaction_id": null,
+    "log_level": "",
+    "message": "",
+    "created_at": ""
+  },
+
+  "full_transaction": {
+    "transaction_id": null,
+    "amount": null,
+    "transaction_reference": "",
+    "description": "",
+    "transaction_date": "",
+
+    "category": {
+      "category_id": null,
+      "category_name": ""
+    },
+
+    "status": {
+      "status_id": null,
+      "status_name": ""
+    },
+
+    "participants": [
+      {
+        "user_id": null,
+        "full_name": "",
+        "phone_number": "",
+        "role": ""
+      }
+    ],
+
+    "logs": [
+      {
+        "log_id": null,
+        "log_level": "",
+        "message": "",
+        "created_at": ""
+      }
+    ]
+  }
+}
