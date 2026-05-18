@@ -50,3 +50,5 @@ Run ETL
 
 python etl/run.py
 
+A professional ERD diagram, structured MySQL database scripts with sample data and constraints, JSON schemas and serialized transaction examples, better project documentation, a well-organized folder structure, CRUD operation files, and additional database design resources for the MoMo SMS system are all included.
+
