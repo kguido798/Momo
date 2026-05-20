@@ -42,6 +42,8 @@ Setup Instructions
 git clonehttps://github.com/kguido798/Momo
 cd Momo
 
+Team task sheet
+https://docs.google.com/spreadsheets/d/1C5Ryk1UKJ2mrx45E_IS4nODPmCyxKT1EegwZ7vlHZ3o/edit?usp=sharing
 Install Dependencies
 
 pip install -r requirements.txt
