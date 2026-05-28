@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "type": "Deposit",
+        "amount": 5000,
+        "sender": "Alice",
+        "receiver": "Bob",
+        "timestamp": "2026-05-25 10:30:00"
+    }
+]
