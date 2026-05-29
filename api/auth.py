@@ -2,7 +2,7 @@
 import base64
 
 USERNAME = "admin"
-PASSWORD = "devnote"
+PASSWORD = "momo123"
 
 
 def authenticate(headers):
