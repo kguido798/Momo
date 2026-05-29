@@ -1,0 +1,21 @@
+<transactions>
+
+    <transaction>
+        <id>1</id>
+        <type>Deposit</type>
+        <amount>5000</amount>
+        <sender>Alice</sender>
+        <receiver>Bob</receiver>
+        <timestamp>2026-05-25 10:30:00</timestamp>
+    </transaction>
+
+    <transaction>
+        <id>2</id>
+        <type>Transfer</type>
+        <amount>3000</amount>
+        <sender>John</sender>
+        <receiver>Mary</receiver>
+        <timestamp>2026-05-25 11:00:00</timestamp>
+    </transaction>
+
+</transactions>
