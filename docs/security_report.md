@@ -7,7 +7,7 @@ This API uses some simple authentication to protect the endpoints.
 Client must have:
 
 - Username: admin
-- Password: devnote
+- Password: momo123
 
 The credentials are encoded using Base64.
 
